@@ -1,0 +1,126 @@
+body{
+    margin: auto;
+    text-align: center;
+    font-family: 'Montserrat', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625em;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Merriweather Sans', serif;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', serif;
+}
+
+.top-container {
+    padding-top: 2%;
+    background-color: #E4F9F5;
+    line-height: 2;
+}
+
+.pro {
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.top-cloud {
+    margin-left: 50%;
+    position: relative;
+}
+.bottom-cloud {
+    position: absolute;
+}
+
+.codingimg {
+    width: 25%;
+    height: auto;
+    float: left;
+    margin-right: 5%;
+}
+
+.codeimg {
+    width: 25%;
+    height: auto;
+    float: right;
+    margin-left: 5%;
+}
+
+.middle-container {
+    padding-bottom: 2.5%;
+}
+
+.bottom-container {
+    margin: auto;
+    padding-top: 2.5%;
+    background-color:#66BFBF;
+}
+
+.contact-me {
+    margin: auto;
+}
+
+.btn {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #EAF6F6;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 10px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.copyright {
+    margin-bottom: 0%;
+    padding-bottom: 2.5%;
+    color: #EAF6F6;
+    font-size: .75em;
+}
+
+.skill-row {
+    padding-top: 2.5%;
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    margin: auto;
+    border-style: dotted none none;
+    border-color: #66BFBF;
+    border-width: 5px;
+    width: 5%;
+  }
+
+.mervynimg {
+    padding-top: 2.5%;
+}
+
+.description {
+    padding-bottom: 7.5%;
+    margin: 0 10% 0 10%
+}
+
+a {
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
